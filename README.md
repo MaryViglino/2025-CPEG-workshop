@@ -4,6 +4,10 @@
 
 The aim of this template is to provide a set structure for the organisation of content and materials for workshops run by [Palaeoverse](https://palaeoverse.org). It is established for the internal Palaeoverse team and is therefore specific to our needs. However, if useful, anyone is free to download or reuse the template for their own purposes.
 
+##Remember!
+
+Use an RProject to make sure the code is available for everyone anywhere. Check the notes and the workshop material. Be confident!
+
 ## Instructions
 
 So, we're doing another workshop are we!? Follow this helpful checklist to get started with this template.
